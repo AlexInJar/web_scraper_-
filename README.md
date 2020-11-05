@@ -1,2 +1,3 @@
 # web_scraper_-
-A webscraper for the uni
+
+This is a personal project for scraping information from the website. Created just for fun.
