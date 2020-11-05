@@ -1,0 +1,3844 @@
+{
+    "ARHU": {
+        " ARHU 101 - The Art of Interpretation: Written Texts ": {
+            "1005": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "ACAD_Seminar Room 3033\nTBA",
+                "Instructor": "Caio Yurgel\nCaio Yurgel",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1100": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "CONF_Conference Room 1095\nTBA",
+                "Instructor": "Selina Lai-Henderson\nSelina Lai-Henderson",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ARHU 102 - The Art of Interpretation: Images and Sound ": {
+            "1050": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar 3B 3103\nTBA",
+                "Instructor": "Diana Chester\nDiana Chester",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1091": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "INNO_Classroom 1056\nTBA",
+                "Instructor": "Seth Henderson\nSeth Henderson",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "BEHAVSCI": {
+        " BEHAVSCI 101 - Introduction to Behavioral Science ": {
+            "1016": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3D 3109\nTBA",
+                "Instructor": "Irina Soboleva,\nGergely Horvath\nIrina Soboleva,\nGergely Horvath",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " BEHAVSCI 102 - Mechanisms of Human Behavior ": {
+            "1093": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "ACAD_Seminar 3C 3107\nTBA",
+                "Instructor": "Gergely Horvath\nGergely Horvath",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "BIOL": {
+        " BIOL 110 - Integrated Science - Biology ": {
+            "1184": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 13:15 - 14:30",
+                "Room": "INNO_Flexible Classroom 1046",
+                "Instructor": "Joohyun Lee",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1186": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Mo 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Joohyun Lee,\nSuhua Li",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1185": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "MoWe 21:20 - 22:20",
+                "Room": "TBA",
+                "Instructor": "Joohyun Lee",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1187": {
+                "Section": "002L-LAB\nSeven Wk 1",
+                "Days & Times": "Tu 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Joohyun Lee,\nSuhua Li",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1231": {
+                "Section": "003-LEC\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 11:45 - 13:00",
+                "Room": "INNO_Classroom 2028",
+                "Instructor": "Joohyun Lee",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1232": {
+                "Section": "003L-LAB\nSeven Wk 2",
+                "Days & Times": "Tu 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Suhua Li,\nJoohyun Lee",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1234": {
+                "Section": "003R-REC\nSeven Wk 2",
+                "Days & Times": "TuTh 21:20 - 22:20",
+                "Room": "TBA",
+                "Instructor": "Joohyun Lee",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1233": {
+                "Section": "004L-LAB\nSeven Wk 2",
+                "Days & Times": "Th 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Suhua Li,\nJoohyun Lee",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " BIOL 201 - Cell and Molecular Biology ": {
+            "1239": {
+                "Section": "001-LEC\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30",
+                "Room": "INNO_Classroom 3106",
+                "Instructor": "Linfeng Huang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1240": {
+                "Section": "001L-LAB\nSeven Wk 2",
+                "Days & Times": "We 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Linfeng Huang,\nMin Su",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1390": {
+                "Section": "001R-REC\nSeven Wk 2",
+                "Days & Times": "TuTh 07:15 - 08:15",
+                "Room": "TBA",
+                "Instructor": "Linfeng Huang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1241": {
+                "Section": "002L-LAB\nSeven Wk 2",
+                "Days & Times": "Th 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Linfeng Huang,\nMin Su",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " BIOL 202 - Genetics and Evolution ": {
+            "1166": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15",
+                "Room": "INNO_Seminar Room 2050",
+                "Instructor": "Chang Chung",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1168": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Tu 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Chang Chung,\nSuhua Li",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1167": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "TuTh 20:10 - 21:10",
+                "Room": "TBA",
+                "Instructor": "Chang Chung",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1169": {
+                "Section": "002L-LAB\nSeven Wk 1",
+                "Days & Times": "We 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Chang Chung,\nSuhua Li",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " BIOL 203 - Molecular, Behavioral and Social Evolution: Darwin's Theories Between Science and Culture ": {
+            "1113": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Classroom 1050\nTBA",
+                "Instructor": "Katherine Robertson,\nYitzhak Lewis\nKatherine Robertson,\nYitzhak Lewis",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " BIOL 208 - General Ecology ": {
+            "1250": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 07:15 - 08:15",
+                "Room": "INNO_Classroom 3106\nTBA",
+                "Instructor": "Chuanhui Gu\nChuanhui Gu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " BIOL 212 - Microbiology ": {
+            "1115": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 11:00",
+                "Room": "INNO_Seminar Room 2050",
+                "Instructor": "Yajuan Lin",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1116": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Tu 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Suhua Li,\nYajuan Lin",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1118": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "MoWe 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Yajuan Lin",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1117": {
+                "Section": "002L-LAB\nSeven Wk 1",
+                "Days & Times": "We 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Yajuan Lin,\nSuhua Li",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " BIOL 305 - Introduction to Biochemistry ": {
+            "1124": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 10:00 - 11:15",
+                "Room": "INNO_Flexible Classroom 1047",
+                "Instructor": "Anastasia Tsigkou",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1125": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "MoWe 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Anastasia Tsigkou",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " BIOL 306 - Cell Signaling and Diseases ": {
+            "1256": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 14:45 - 17:15",
+                "Room": "INNO_Classroom 1056",
+                "Instructor": "Chang Chung",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1257": {
+                "Section": "001R-REC\nSeven Wk 2",
+                "Days & Times": "MoWe 20:10 - 21:10",
+                "Room": "TBA",
+                "Instructor": "Chang Chung",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " BIOL 311 - Biogeochemistry ": {
+            "1300": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 21:20 - 22:20",
+                "Room": "INNO_Classroom 1055\nTBA",
+                "Instructor": "Yajuan Lin\nYajuan Lin",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " BIOL 314 - Computational Biology and Bioinformatics ": {
+            "1180": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "INNO_Classroom 1055\nTBA",
+                "Instructor": "Huansheng Cao\nHuansheng Cao",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1181": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Mo 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Huansheng Cao,\nSuhua Li",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "CHEM": {
+        " CHEM 110 - Integrated Science - Chemistry ": {
+            "1141": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 10:00 - 11:15",
+                "Room": "INNO_Classroom 2028",
+                "Instructor": "Kai Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1143": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Mo 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Kai Zhang,\nMin Su",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1142": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "MoWe 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Kai Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1144": {
+                "Section": "002L-LAB\nSeven Wk 1",
+                "Days & Times": "Th 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Kai Zhang,\nMin Su",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1235": {
+                "Section": "003-LEC\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 13:15 - 14:30",
+                "Room": "INNO_Classroom 2028",
+                "Instructor": "Song Gao",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1236": {
+                "Section": "003L-LAB\nSeven Wk 2",
+                "Days & Times": "Mo 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Song Gao,\nMin Su",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1238": {
+                "Section": "003R-REC\nSeven Wk 2",
+                "Days & Times": "MoWe 21:20 - 22:20",
+                "Room": "TBA",
+                "Instructor": "Song Gao",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1237": {
+                "Section": "004L-LAB\nSeven Wk 2",
+                "Days & Times": "We 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Song Gao,\nMin Su",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CHEM 201 - Organic Chemistry I ": {
+            "1126": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 10:00 - 11:15",
+                "Room": "INNO_Classroom 3106",
+                "Instructor": "Mark Spaller",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1127": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Tu 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Mark Spaller,\nYi Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1389": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "MoWe 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Mark Spaller",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1128": {
+                "Section": "002L-LAB\nSeven Wk 1",
+                "Days & Times": "We 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Mark Spaller,\nYi Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CHEM 202 - Organic Chemistry II ": {
+            "1222": {
+                "Section": "001-LEC\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 14:45 - 16:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 2050\nTBA",
+                "Instructor": "Daisy Zhang-Negrerie\nDaisy Zhang-Negrerie",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1223": {
+                "Section": "001L-LAB\nSeven Wk 2",
+                "Days & Times": "Tu 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Daisy Zhang-Negrerie,\nMin Su",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1224": {
+                "Section": "002L-LAB\nSeven Wk 2",
+                "Days & Times": "We 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Daisy Zhang-Negrerie,\nMin Su",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CHEM 210 - General Chemistry II ": {
+            "1129": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "INNO_Classroom 3106\nTBA",
+                "Instructor": "Song Gao\nSong Gao",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1130": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Mo 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Song Gao,\nMin Su",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1131": {
+                "Section": "002L-LAB\nSeven Wk 1",
+                "Days & Times": "Th 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Song Gao,\nMin Su",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CHEM 301 - Elements of Physical Chemistry ": {
+            "1170": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30",
+                "Room": "INNO_Telepresence Room 1011",
+                "Instructor": "Daisy Zhang-Negrerie",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1171": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Tu 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Daisy Zhang-Negrerie,\nMin Su",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CHEM 402 - Inorganic Chemistry ": {
+            "1307": {
+                "Section": "001-LEC\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Classroom 1050\nTBA",
+                "Instructor": "Floyd Beckford\nFloyd Beckford",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1308": {
+                "Section": "001L-LAB\nSeven Wk 2",
+                "Days & Times": "Th 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Floyd Beckford,\nMin Su",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "CHINESE": {
+        " CHINESE 102A - Beginning Chinese 2 - A ": {
+            "1260": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 12:00 - 13:00\nTuTh 07:15 - 08:15",
+                "Room": "TBA\nTBA",
+                "Instructor": "Cong Li\nCong Li",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1261": {
+                "Section": "002-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 10:00 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "TBA\nTBA",
+                "Instructor": "Li Xu\nLi Xu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1262": {
+                "Section": "003-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 13:15 - 14:15\nMoWe 07:15 - 08:15",
+                "Room": "TBA\nTBA",
+                "Instructor": "Li Xu\nLi Xu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1263": {
+                "Section": "004-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 14:45 - 15:45\nTuTh 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Sophia ZHOU\nSophia ZHOU",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1264": {
+                "Section": "005-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 16:15 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Sophia ZHOU\nSophia ZHOU",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 102B - Beginning Chinese 2 - B ": {
+            "1265": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 12:00 - 13:00\nTuTh 07:15 - 08:15",
+                "Room": "TBA\nTBA",
+                "Instructor": "Cong Li\nCong Li",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1266": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 10:00 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "TBA\nTBA",
+                "Instructor": "Li Xu\nLi Xu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1267": {
+                "Section": "003-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 13:15 - 14:15\nMoWe 07:15 - 08:15",
+                "Room": "TBA\nTBA",
+                "Instructor": "Li Xu\nLi Xu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1268": {
+                "Section": "004-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 14:45 - 15:45\nTuTh 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Sophia ZHOU\nSophia ZHOU",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1269": {
+                "Section": "005-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Sophia ZHOU\nSophia ZHOU",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 202A - Intermediate Chinese 2 - A ": {
+            "1272": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 13:15 - 14:15\nMoWe 07:15 - 08:15",
+                "Room": "TBA\nTBA",
+                "Instructor": "Mengtian Chen\nMengtian Chen",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1273": {
+                "Section": "002-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 10:00 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "TBA\nTBA",
+                "Instructor": "Mengtian Chen\nMengtian Chen",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1274": {
+                "Section": "003-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 12:00 - 13:00\nTuTh 07:15 - 08:15",
+                "Room": "TBA\nTBA",
+                "Instructor": "Yu Miao\nYu Miao",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1275": {
+                "Section": "004-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 16:15 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Yu Miao\nYu Miao",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1276": {
+                "Section": "005-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 14:45 - 15:45\nTuTh 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Yili Zhang\nYili Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1277": {
+                "Section": "006-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 16:15 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Xiaofei Pan\nXiaofei Pan",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 202B - Intermediate Chinese 2 - B ": {
+            "1278": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 13:15 - 14:15\nMoWe 07:15 - 08:15",
+                "Room": "TBA\nTBA",
+                "Instructor": "Mengtian Chen\nMengtian Chen",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1279": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 10:00 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "TBA\nTBA",
+                "Instructor": "Mengtian Chen\nMengtian Chen",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1280": {
+                "Section": "003-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 12:00 - 13:00\nTuTh 07:15 - 08:15",
+                "Room": "TBA\nTBA",
+                "Instructor": "Yu Miao\nYu Miao",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1281": {
+                "Section": "004-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Yu Miao\nYu Miao",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1282": {
+                "Section": "005-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 14:45 - 15:45\nTuTh 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Yili Zhang\nYili Zhang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1283": {
+                "Section": "006-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Xiaofei Pan\nXiaofei Pan",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 232A - Second Year Chinese for Heritage Learners 2 - A ": {
+            "1270": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 14:45 - 15:45\nTuTh 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Minnange Qin\nMinnange Qin",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 232B - Second Year Chinese for Heritage Learners 2 - B ": {
+            "1271": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 14:45 - 15:45\nTuTh 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Minnange Qin\nMinnange Qin",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 302A - Advanced Intermediate Chinese 2 - A ": {
+            "1309": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 10:00 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "TBA\nTBA",
+                "Instructor": "Liying Feng\nLiying Feng",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1310": {
+                "Section": "002-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 13:15 - 14:15\nMoWe 21:20 - 22:20",
+                "Room": "TBA\nTBA",
+                "Instructor": "Liying Feng\nLiying Feng",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 302B - Advanced Intermediate Chinese 2 - B ": {
+            "1311": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 10:00 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "TBA\nTBA",
+                "Instructor": "Liying Feng\nLiying Feng",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1312": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 13:15 - 14:15\nMoWe 21:20 - 22:20",
+                "Room": "TBA\nTBA",
+                "Instructor": "Liying Feng\nLiying Feng",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 402A - Advanced Chinese - Issues in Modern China 2 - A ": {
+            "1313": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 13:15 - 14:15\nMoWe 21:20 - 22:20",
+                "Room": "TBA\nTBA",
+                "Instructor": "Minnange Qin\nMinnange Qin",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 402B - Advanced Chinese - Issues in Modern China 2 - B ": {
+            "1314": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 13:15 - 14:15\nMoWe 21:20 - 22:20",
+                "Room": "TBA\nTBA",
+                "Instructor": "Minnange Qin\nMinnange Qin",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 409 - Chinese Book Club ": {
+            "1315": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 16:15 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Xin Zhang\nXin Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1316": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "TBA\nTBA",
+                "Instructor": "Xin Zhang\nXin Zhang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 410A - Public Speaking in Chinese ": {
+            "1346": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 10:00 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "TBA\nTBA",
+                "Instructor": "Yili Zhang\nYili Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CHINESE 410B - Public Speaking in Chinese ": {
+            "1347": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 10:00 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "TBA\nTBA",
+                "Instructor": "Yili Zhang\nYili Zhang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "COMPSCI": {
+        " COMPSCI 101 - Introduction to Computer Science ": {
+            "1152": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 10:00 - 11:15\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar 2A 2103\nTBA",
+                "Instructor": "Daniel Lim\nDaniel Lim",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1153": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Mo 11:45 - 13:00",
+                "Room": "TBA",
+                "Instructor": "Daniel Lim",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1154": {
+                "Section": "002L-LAB\nSeven Wk 1",
+                "Days & Times": "We 11:45 - 13:00",
+                "Room": "TBA",
+                "Instructor": "Daniel Lim",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1198": {
+                "Section": "003-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 10:00 - 11:15",
+                "Room": "INNO_Classroom 3106",
+                "Instructor": "Wolfgang Christian",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1199": {
+                "Section": "003L-SEM\nSeven Wk 2",
+                "Days & Times": "We 08:30 - 09:45",
+                "Room": "TBA",
+                "Instructor": "Wolfgang Christian",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1226": {
+                "Section": "004-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 11:45 - 13:00\nTuTh 21:20 - 22:20",
+                "Room": "INNO_Flexible Classroom 1046\nTBA",
+                "Instructor": "Daniel Lim\nDaniel Lim",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1227": {
+                "Section": "004L-LAB\nSeven Wk 2",
+                "Days & Times": "We 14:45 - 16:00",
+                "Room": "TBA",
+                "Instructor": "Daniel Lim",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1228": {
+                "Section": "005L-LAB\nSeven Wk 2",
+                "Days & Times": "Th 14:45 - 16:00",
+                "Room": "TBA",
+                "Instructor": "Daniel Lim",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " COMPSCI 201 - Introduction to Programming and Data Structures ": {
+            "1145": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 13:15 - 14:30",
+                "Room": "INNO_Flexible Classroom 1047",
+                "Instructor": "Jiang Long",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1147": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Tu 10:00 - 11:15",
+                "Room": "TBA",
+                "Instructor": "Jiang Long",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1146": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "MoWe 07:15 - 08:15",
+                "Room": "TBA",
+                "Instructor": "Jiang Long",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1148": {
+                "Section": "002L-LAB\nSeven Wk 1",
+                "Days & Times": "Th 10:00 - 11:15",
+                "Room": "TBA",
+                "Instructor": "Jiang Long",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " COMPSCI 301 - Algorithms and Databases ": {
+            "1229": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30",
+                "Room": "INNO_Flexible Classroom 1047",
+                "Instructor": "Jiang Long",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1230": {
+                "Section": "001R-REC\nSeven Wk 2",
+                "Days & Times": "MoWe 20:10 - 21:10",
+                "Room": "TBA",
+                "Instructor": "Jiang Long",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " COMPSCI 302 - Computer Vision ": {
+            "1193": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar 2A 2103\nTBA",
+                "Instructor": "Matthias Schroter\nMatthias Schroter",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " COMPSCI 320 - Software Reliability ": {
+            "1194": {
+                "Section": "001-SEM\n14 Week",
+                "Days & Times": "TuTh 21:30 - 22:45\nTuTh 20:30 - 21:45",
+                "Room": "INNO_Team Room 3039\nINNO_Team Room 3039",
+                "Instructor": "Kishor Trivedi\nKishor Trivedi",
+                "Meeting Dates": "2021/01/06 - 2021/03/13\n2021/03/14 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "CULANTH": {
+        " CULANTH 201 - New Media and Society ": {
+            "1024": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 07:15 - 08:15",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Benjamin Bacon\nBenjamin Bacon",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CULANTH 206 - The Ethnography of China: New Directions ": {
+            "1027": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "ACAD_Seminar 3A 3101\nTBA",
+                "Instructor": "Keping Wu\nKeping Wu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CULANTH 211 - Gender, Mobility and Labor ": {
+            "1078": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "INNO_Classroom 1055\nTBA",
+                "Instructor": "Nellie Chu\nNellie Chu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CULANTH 214 - Authoritarianism and the struggle for democracy in Latin America ": {
+            "1293": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Robin Rodd\nRobin Rodd",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " CULANTH 304 - The Anthropology of Doing Good: China and Beyond ": {
+            "1099": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Telepresence Room 1011\nTBA",
+                "Instructor": "Mengqi Wang\nMengqi Wang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CULANTH 315 - Why Be a Bandit? ": {
+            "1292": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Scott MacEachern\nScott MacEachern",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "CULMOVE": {
+        " CULMOVE 202 - Culture and Social Movements ": {
+            "1087": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 07:15 - 08:15",
+                "Room": "ACAD_Seminar 3B 3103\nTBA",
+                "Instructor": "Keping Wu\nKeping Wu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CULMOVE 203 - Wealth, Inequality and Power ": {
+            "1076": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3D 3109\nTBA",
+                "Instructor": "Robin Rodd\nRobin Rodd",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " CULMOVE 390 - Junior Seminar: Advanced Topics ": {
+            "1287": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "James Miller,\nMegan Rogers\nJames Miller,\nMegan Rogers",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "ECON": {
+        " ECON 101 - Economics Principles ": {
+            "1007": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "ACAD_Seminar 2B 2107\nTBA",
+                "Instructor": "Peter Sattler\nPeter Sattler",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1107": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "ACAD_Seminar 2B 2107\nTBA",
+                "Instructor": "Peter Sattler,\nXiaochen Zhang\nPeter Sattler,\nXiaochen Zhang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ECON 201 - Intermediate Microeconomics I ": {
+            "1060": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar 1A 1079\nTBA",
+                "Instructor": "Jingbo Cui\nJingbo Cui",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1110": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar 1A 1079\nTBA",
+                "Instructor": "Jingbo Cui\nJingbo Cui",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ECON 202 - Intermediate Microeconomics II ": {
+            "1052": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Classroom 2028\nTBA",
+                "Instructor": "Ming Gu\nMing Gu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " ECON 203 - Introduction to Econometrics ": {
+            "1017": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "ACAD_Seminar 1A 1079\nTBA",
+                "Instructor": "Ming Gu\nMing Gu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " ECON 204 - Intermediate Macroeconomics ": {
+            "1108": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar 1B 1087\nTBA",
+                "Instructor": "Luyao Zhang\nLuyao Zhang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ECON 211 - Intelligent Economics: An Explainable AI approach ": {
+            "1301": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 21:20 - 22:20",
+                "Room": "ACAD_Seminar 3C 3107\nTBA",
+                "Instructor": "Luyao Zhang\nLuyao Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " ECON 303 - Financial Institutions ": {
+            "1106": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Peter Sattler\nPeter Sattler",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ECON 309 - Behavioral Finance ": {
+            "1086": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 21:20 - 22:20",
+                "Room": "ACAD_Seminar 3B 3103\nTBA",
+                "Instructor": "Emma Rasiel\nEmma Rasiel",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ECON 310 - Urban Economics ": {
+            "1055": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "ACAD_Seminar 3C 3107\nTBA",
+                "Instructor": "Xiaochen Zhang\nXiaochen Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " ECON 314 - International Trade ": {
+            "1066": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "ACAD_Seminar Room 3033\nTBA",
+                "Instructor": "Peter Sattler\nPeter Sattler",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ECON 315 - Economics of the Public Sector ": {
+            "1393": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Seminar Room 2050\nTBA",
+                "Instructor": "Jaehee Choi\nJaehee Choi",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ECON 404 - Environmental Justice: The Economics of Race, Place and Pollution ": {
+            "1296": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Seminar Room 2050\nTBA",
+                "Instructor": "Wanggi Jaung\nWanggi Jaung",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "EAP": {
+        " EAP 102A - Writing about Culture Learning - A ": {
+            "1449": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 09:45",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Christopher Tebbe",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1450": {
+                "Section": "002-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 09:45",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Laura Davies",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1451": {
+                "Section": "003-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 10:00 - 11:15",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Leslie Naghib",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1452": {
+                "Section": "004-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 10:00 - 11:15",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Kristin Hiller",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1453": {
+                "Section": "005-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 11:45 - 13:00",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Christopher Tebbe",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1454": {
+                "Section": "006-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 11:45 - 13:00",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Laura Davies",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1455": {
+                "Section": "007-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 13:15 - 14:30",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Austin WOERNER",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1456": {
+                "Section": "008-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 16:00",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Eric Eberly",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1457": {
+                "Section": "009-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 16:00",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Elisabeth Ursell",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1458": {
+                "Section": "010-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 16:15 - 17:30",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "John Harper",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1459": {
+                "Section": "011-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 09:45",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Eric Eberly",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1460": {
+                "Section": "012-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 10:00 - 11:15",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Leslie Naghib",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1461": {
+                "Section": "013-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 10:00 - 11:15",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "John Harper",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1462": {
+                "Section": "014-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 11:45 - 13:00",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Amanda Bradford",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1463": {
+                "Section": "015-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 11:45 - 13:00",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Kevin SPRAGUE",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1464": {
+                "Section": "016-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 13:15 - 14:30",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Yachao Sun",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1465": {
+                "Section": "017-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 13:15 - 14:30",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Eric Eberly",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1466": {
+                "Section": "018-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 16:00",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Elisabeth Ursell",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1467": {
+                "Section": "019-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 16:00",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Amanda Bradford",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1468": {
+                "Section": "020-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 16:15 - 17:30",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Emmanuelle MAULDIN-CHIOCCA",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1469": {
+                "Section": "021-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 16:15 - 17:30",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Yachao Sun",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " EAP 102B - Writing about Culture Learning - B ": {
+            "1470": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 09:45",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Christopher Tebbe",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1471": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 09:45",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Laura Davies",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1472": {
+                "Section": "003-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 10:00 - 11:15",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Leslie Naghib",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1473": {
+                "Section": "004-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 10:00 - 11:15",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Kristin Hiller",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1474": {
+                "Section": "005-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 11:45 - 13:00",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Christopher Tebbe",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1475": {
+                "Section": "006-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 11:45 - 13:00",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Laura Davies",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1476": {
+                "Section": "007-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 13:15 - 14:30",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Austin WOERNER",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1477": {
+                "Section": "008-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 16:00",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Eric Eberly",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1478": {
+                "Section": "009-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 16:00",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Elisabeth Ursell",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1479": {
+                "Section": "010-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 16:15 - 17:30",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "John Harper",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1480": {
+                "Section": "011-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 09:45",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Eric Eberly",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1481": {
+                "Section": "012-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 10:00 - 11:15",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Leslie Naghib",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1482": {
+                "Section": "013-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 10:00 - 11:15",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "John Harper",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1483": {
+                "Section": "014-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 11:45 - 13:00",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Amanda Bradford",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1484": {
+                "Section": "015-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 11:45 - 13:00",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Kevin SPRAGUE",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1485": {
+                "Section": "016-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 13:15 - 14:30",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Yachao Sun",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1486": {
+                "Section": "017-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 13:15 - 14:30",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Eric Eberly",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1487": {
+                "Section": "018-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 14:45 - 16:00",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Elisabeth Ursell",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1488": {
+                "Section": "019-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 14:45 - 16:00",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Amanda Bradford",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1489": {
+                "Section": "020-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 16:15 - 17:30",
+                "Room": "ACAD_Team Room 1076",
+                "Instructor": "Emmanuelle MAULDIN-CHIOCCA",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1490": {
+                "Section": "021-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 16:15 - 17:30",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Yachao Sun",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " EAP 110 - Presenting Ideas to Global Audiences ": {
+            "1441": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 13:15 - 14:30",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Kevin SPRAGUE",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1442": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 13:15 - 14:30",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Kevin SPRAGUE",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "ENVIR": {
+        " ENVIR 101 - Introduction to Environmental Sciences ": {
+            "1140": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 10:00 - 11:15\nMoWe 19:00 - 20:00",
+                "Room": "INNO_Flexible Classroom 1046\nTBA",
+                "Instructor": "William Winner\nWilliam Winner",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " ENVIR 102 - Dynamic Earth and Oceans: Physical and Biological Sciences for the Environment ": {
+            "1159": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 11:45 - 13:00\nTuTh 21:20 - 22:20",
+                "Room": "INNO_Seminar Room 2050\nTBA",
+                "Instructor": "Chuanhui Gu\nChuanhui Gu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " ENVIR 201 - Applied Environmental Science and Policy ": {
+            "1207": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "INNO_Classroom 1056\nTBA",
+                "Instructor": "Wanggi Jaung\nWanggi Jaung",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ENVIR 202 - Biodiversity and Conservation ": {
+            "1204": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "ACAD_Seminar 2B 2107\nTBA",
+                "Instructor": "Huansheng Cao\nHuansheng Cao",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ENVIR 301 - International Environmental Policy ": {
+            "1248": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 21:20 - 22:20",
+                "Room": "INNO_Classroom 1051\nTBA",
+                "Instructor": "Thanh Nguyen\nThanh Nguyen",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1249": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "INNO_Classroom 1051\nTBA",
+                "Instructor": "Thanh Nguyen\nThanh Nguyen",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ENVIR 311 - Biogeochemistry ": {
+            "1299": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 21:20 - 22:20",
+                "Room": "INNO_Classroom 1055\nTBA",
+                "Instructor": "Yajuan Lin\nYajuan Lin",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ENVIR 404 - Environmental Justice: The Economics of Race, Place and Pollution ": {
+            "1295": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Seminar Room 2050\nTBA",
+                "Instructor": "Wanggi Jaung\nWanggi Jaung",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "ETHLDR": {
+        " ETHLDR 101 - Ethics and Leadership ": {
+            "1002": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "Emily McWilliams\nEmily McWilliams",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " ETHLDR 201 - Ethics, Citizenship and the Examined Life ": {
+            "1338": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30",
+                "Room": "INNO_Meeting Room 1012",
+                "Instructor": "Tommaso Tesei",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1339": {
+                "Section": "002-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30",
+                "Room": "INNO_Classroom 1056",
+                "Instructor": "Quinlan Bowman",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1340": {
+                "Section": "003-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15",
+                "Room": "INNO_Meeting Room 1012",
+                "Instructor": "Ben Van Overmeire",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1341": {
+                "Section": "004-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 12:00 - 14:30",
+                "Room": "CISK_Classroom 002",
+                "Instructor": "Nathan Hauthaler",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1342": {
+                "Section": "005-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15",
+                "Room": "CISK_Classroom 002",
+                "Instructor": "Joseph Mazor",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1343": {
+                "Section": "006-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 17:15",
+                "Room": "INNO_Meeting Room 1012",
+                "Instructor": "Ben Van Overmeire",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1344": {
+                "Section": "007-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30",
+                "Room": "CISK_Classroom 002",
+                "Instructor": "Daniel Weissglass",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ETHLDR 202 - Ethics, Markets, and Politics ": {
+            "1031": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 07:15 - 08:15",
+                "Room": "ACAD_Seminar 3D 3109\nTBA",
+                "Instructor": "Staff\nStaff",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " ETHLDR 203 - Conceptions of Democracy and Meritocracy ": {
+            "1062": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "Lindsay Rathnam\nLindsay Rathnam",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ETHLDR 204 - Environmental Ethics ": {
+            "1063": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "Jeffrey Nicolaisen\nJeffrey Nicolaisen",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " ETHLDR 301 - Ethics of Nudging ": {
+            "1054": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Meeting Room 1012\nTBA",
+                "Instructor": "Daniel Weissglass\nDaniel Weissglass",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " ETHLDR 390 - Junior Seminar: Advanced Topics ": {
+            "1284": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "James Miller,\nMegan Rogers\nJames Miller,\nMegan Rogers",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "GCHINA": {
+        " GCHINA 101 - China in the World ": {
+            "1317": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "Th 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Bryce Beemer,\nAndrew Field,\nZach Fredman,\nTitas Chakraborty,\nLei Lin,\nQian Zhu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1318": {
+                "Section": "001D-DIS\nSeven Wk 1",
+                "Days & Times": "MoWe 13:15 - 14:30",
+                "Room": "CISK_Classroom 002",
+                "Instructor": "Staff",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1321": {
+                "Section": "004D-DIS\nSeven Wk 1",
+                "Days & Times": "MoWe 16:15 - 17:30",
+                "Room": "CISK_Classroom 002",
+                "Instructor": "Staff",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1324": {
+                "Section": "007D-DIS\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 09:45",
+                "Room": "CISK_Classroom 002",
+                "Instructor": "Staff",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1328": {
+                "Section": "010-LEC\nSeven Wk 2",
+                "Days & Times": "Th 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Bryce Beemer,\nAndrew Field,\nZach Fredman,\nTitas Chakraborty,\nLei Lin,\nQian Zhu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1329": {
+                "Section": "010D-DIS\nSeven Wk 2",
+                "Days & Times": "MoWe 13:15 - 14:30",
+                "Room": "CISK_Classroom 002",
+                "Instructor": "Staff",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1337": {
+                "Section": "013D-DIS\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 09:45",
+                "Room": "CISK_Classroom 004",
+                "Instructor": "Staff",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1334": {
+                "Section": "016D-DIS\nSeven Wk 2",
+                "Days & Times": "MoWe 16:15 - 17:30",
+                "Room": "CISK_Classroom 004",
+                "Instructor": "Staff",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " GCHINA 201 - From Empire to Nation ": {
+            "1064": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "CONF_Conference Room 1095\nTBA",
+                "Instructor": "Xiangjun Feng\nXiangjun Feng",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " GCHINA 202 - Modern Chinese Politics ": {
+            "1029": {
+                "Section": "002-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 07:15 - 08:15",
+                "Room": "ACAD_Seminar 3C 3107\nTBA",
+                "Instructor": "Andrew MacDonald\nAndrew MacDonald",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " GCHINA 301 - China\u2019s Economic Transition ": {
+            "1290": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 21:20 - 22:20",
+                "Room": "CONF_Conference Room 1095\nTBA",
+                "Instructor": "Zhaojin Zeng\nZhaojin Zeng",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " GCHINA 302 - The Factory: From Socialist Industrialism to World Assembly ": {
+            "1065": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "CONF_Conference Room 1095\nTBA",
+                "Instructor": "Zhaojin Zeng\nZhaojin Zeng",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " GCHINA 390 - Junior Seminar: Advanced Topics ": {
+            "1286": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "James Miller,\nMegan Rogers\nJames Miller,\nMegan Rogers",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "GCULS": {
+        " GCULS 201 - Culture and Industry ": {
+            "1006": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar Room 3033\nTBA",
+                "Instructor": "Nellie Chu\nNellie Chu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " GCULS 202 - Empires and Culture ": {
+            "1069": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3B 3103\nTBA",
+                "Instructor": "Xiangjun Feng\nXiangjun Feng",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " GCULS 302 - Gender and Globality ": {
+            "1022": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15\nMoWe 21:20 - 22:20",
+                "Room": "INNO_Classroom 1050\nTBA",
+                "Instructor": "Zairong Xiang\nZairong Xiang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " GCULS 390 - Junior Seminar: Advanced Topics ": {
+            "1285": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "James Miller,\nMegan Rogers\nJames Miller,\nMegan Rogers",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "GLHLTH": {
+        " GLHLTH 101 - Introduction to Global Health ": {
+            "1190": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Classroom 3106\nTBA",
+                "Instructor": " ",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1253": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "INNO_Classroom 3106\nTBA",
+                "Instructor": "Benjamin Anderson\nBenjamin Anderson",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " GLHLTH 110 - Ecosystem Health and Human Well-Being ": {
+            "1212": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "INNO_Meeting Room 1012\nTBA",
+                "Instructor": "Staff\nStaff",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " GLHLTH 201 - Global Health Ethics ": {
+            "1179": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "INNO_Classroom 1051\nTBA",
+                "Instructor": "Daniel Weissglass\nDaniel Weissglass",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " GLHLTH 301 - Global Health Research Methods ": {
+            "1254": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "INNO_Classroom 1056\nTBA",
+                "Instructor": "Chenkai Wu\nChenkai Wu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " GLHLTH 302 - Social Determinants of Health ": {
+            "1208": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Meeting Room 1012\nTBA",
+                "Instructor": "Meifang Chen\nMeifang Chen",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " GLHLTH 303 - Global Comparative Health Care Systems ": {
+            "1191": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Classroom 1055\nTBA",
+                "Instructor": "Meifang Chen\nMeifang Chen",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " GLHLTH 306 - Evolution of Health and Disease ": {
+            "1178": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 21:20 - 22:20\nTuTh 07:15 - 08:15",
+                "Room": "INNO_Classroom 1051\nTBA\nTBA",
+                "Instructor": "Gregory Gray\nGregory Gray\nGregory Gray",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "HIST": {
+        " HIST 102 - Medieval Chinese History ": {
+            "1020": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "CONF_Conference Room 1095\nTBA",
+                "Instructor": "Lei Lin\nLei Lin",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " HIST 103 - Premodern Chinese History ": {
+            "1084": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "ACAD_Seminar Room 3033\nTBA",
+                "Instructor": "Kim Gordon\nKim Gordon",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " HIST 105 - American History from Reconstruction to the Present ": {
+            "1025": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "ACAD_Seminar 3B 3103\nTBA",
+                "Instructor": "Jesse Olsavsky\nJesse Olsavsky",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " HIST 110 - Historical Perspectives on Contemporary Global Issues ": {
+            "1019": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "Kolleen Guy\nKolleen Guy",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " HIST 205 - Shanghai: From Treaty Port to Global Metropolis ": {
+            "1085": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 07:15 - 08:15",
+                "Room": "ACAD_Seminar Room 3033\nTBA",
+                "Instructor": "Andrew Field\nAndrew Field",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " HIST 206 - World History in Seven Meals ": {
+            "1040": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 13:15 - 14:30\nMoWe 07:15 - 08:15",
+                "Room": "INNO_Meeting Room 1012\nTBA",
+                "Instructor": "Kolleen Guy\nKolleen Guy",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1041": {
+                "Section": "002-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "Kolleen Guy\nKolleen Guy",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " HIST 209 - Refugees and War since 1914 ": {
+            "1104": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar 3B 3103\nTBA",
+                "Instructor": "Jay Winter\nJay Winter",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " HIST 210 - Global Art History ": {
+            "1101": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "ACAD_Seminar Room 3033\nTBA",
+                "Instructor": "Zairong Xiang\nZairong Xiang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " HIST 220 - Global Media History ": {
+            "1023": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 21:20 - 22:20",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "David Hare\nDavid Hare",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " HIST 315 - Why Be a Bandit? ": {
+            "1291": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Scott MacEachern\nScott MacEachern",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "INFOSCI": {
+        " INFOSCI 102 - Computation and Problem Solving ": {
+            "1009": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Charles Chang\nCharles Chang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " INFOSCI 103 - Computation, Society & Culture ": {
+            "1094": {
+                "Section": "001-LEC\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "ACAD_Seminar 3C 3107\nTBA",
+                "Instructor": "Charles Chang\nCharles Chang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " INFOSCI 112 - Googlization of Knowledge: Information, Ethics, and Technology ": {
+            "1111": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Seminar Room 1010\nTBA",
+                "Instructor": "Linda Daniel,\nJoanna Hare\nLinda Daniel,\nJoanna Hare",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1112": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 16:15 - 17:30\nTuTh 20:10 - 21:10",
+                "Room": "INNO_Seminar Room 1010\nTBA",
+                "Instructor": "Linda Daniel,\nJoanna Hare\nLinda Daniel,\nJoanna Hare",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "JAPANESE": {
+        " JAPANESE 102 - Beginning Japanese 2 ": {
+            "1491": {
+                "Section": "001-SEM\n14 Week",
+                "Days & Times": "MoWe 16:15 - 17:30",
+                "Room": "ACAD_Team Room 1084",
+                "Instructor": "Cong Li",
+                "Meeting Dates": "2021/01/06 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "LIT": {
+        " LIT 102 - Introduction to Literary Theory Writ Large ": {
+            "1068": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3B 3103\nTBA",
+                "Instructor": "Yitzhak Lewis\nYitzhak Lewis",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " LIT 104 - The American Romance of Self-Making ": {
+            "1075": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3C 3107\nTBA",
+                "Instructor": "Stephanie Anderson\nStephanie Anderson",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " LIT 106 - American Otherness and Otherness in America ": {
+            "1010": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Stephanie Anderson\nStephanie Anderson",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " LIT 201 - Asian-American Arts and Letters ": {
+            "1026": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "ACAD_Seminar 3B 3103\nTBA",
+                "Instructor": "Alice Xiang\nAlice Xiang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " LIT 203 - Reading Empire ": {
+            "1021": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "ACAD_Team Room 3106\nTBA",
+                "Instructor": "Caio Yurgel\nCaio Yurgel",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " LIT 205 - American Lyric Across Borders (Poetry) ": {
+            "1074": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3C 3107\nTBA",
+                "Instructor": "Stephanie Anderson\nStephanie Anderson",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " LIT 209 - Critical Inter-Asia: Rethinking Local and Global Connections ": {
+            "1103": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "ACAD_Seminar 3B 3103\nTBA",
+                "Instructor": "Staff\nStaff",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " LIT 213 - Literature and Global Citizenship ": {
+            "1088": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Alice Xiang\nAlice Xiang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "MATSCI": {
+        " MATSCI 201 - Fundamentals of Material Sciences ": {
+            "1197": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 08:30 - 09:45\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Classroom 1051\nTBA",
+                "Instructor": "Kai Zhang\nKai Zhang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MATSCI 302 - Electronic, Optical and Magnetic Properties of Materials ": {
+            "1177": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 21:20 - 22:20",
+                "Room": "ACAD_Seminar Room 3031\nTBA",
+                "Instructor": "Xiawa Wang\nXiawa Wang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "MATH": {
+        " MATH 101 - Introductory Calculus ": {
+            "1200": {
+                "Section": "001-LEC\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 08:30 - 09:45",
+                "Room": "INNO_Classroom 2028",
+                "Instructor": "Lewis Blake",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1201": {
+                "Section": "001R-REC\nSeven Wk 2",
+                "Days & Times": "TuTh 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Lewis Blake",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MATH 105 - Calculus ": {
+            "1160": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 11:45 - 13:00",
+                "Room": "INNO_Flexible Classroom 1046",
+                "Instructor": "Dongmian Zou",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1161": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "TuTh 07:15 - 08:15",
+                "Room": "TBA",
+                "Instructor": "Dongmian Zou",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " MATH 201 - Multivariable Calculus ": {
+            "1162": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 11:45 - 13:00",
+                "Room": "INNO_Flexible Classroom 1047",
+                "Instructor": "Marcus Werner",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1163": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "TuTh 21:20 - 22:20",
+                "Room": "TBA",
+                "Instructor": "Marcus Werner",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1213": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 10:00 - 11:15",
+                "Room": "INNO_Classroom 2028",
+                "Instructor": "Italo Simonelli",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1214": {
+                "Section": "002R-REC\nSeven Wk 2",
+                "Days & Times": "MoWe 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Italo Simonelli",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MATH 202 - Linear Algebra ": {
+            "1157": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15",
+                "Room": "INNO_Flexible Classroom 1047",
+                "Instructor": "Zhe Liu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1158": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "TuTh 20:10 - 21:10",
+                "Room": "TBA",
+                "Instructor": "Zhe Liu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1244": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30",
+                "Room": "INNO_Flexible Classroom 2071",
+                "Instructor": "Zhe Liu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1245": {
+                "Section": "002R-REC\nSeven Wk 2",
+                "Days & Times": "TuTh 21:20 - 22:20",
+                "Room": "TBA",
+                "Instructor": "Zhe Liu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MATH 205 - Probability and Statistics ": {
+            "1121": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 08:30 - 09:45",
+                "Room": "INNO_Classroom 2028",
+                "Instructor": "Italo Simonelli",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1122": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "TuTh 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Italo Simonelli",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1251": {
+                "Section": "002-LEC\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 14:45 - 16:00",
+                "Room": "INNO_Flexible Classroom 1047",
+                "Instructor": "Lin Jiu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1252": {
+                "Section": "002R-REC\nSeven Wk 2",
+                "Days & Times": "TuTh 20:10 - 21:10",
+                "Room": "TBA",
+                "Instructor": "Lin Jiu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MATH 301 - Advanced Introduction to Probability ": {
+            "1188": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Classroom 1056\nTBA",
+                "Instructor": "Lin Jiu\nLin Jiu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " MATH 302 - Numerical Analysis ": {
+            "1242": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "INNO_Classroom 1050\nTBA",
+                "Instructor": "Staff\nStaff",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MATH 303 - ODE and Dynamical Systems ": {
+            "1164": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 11:45 - 13:00\nTuTh 21:20 - 22:20",
+                "Room": "INNO_Seminar Room 1010\nTBA",
+                "Instructor": "Konstantinos Efstathiou\nKonstantinos Efstathiou",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " MATH 304 - Numerical Analysis and Optimization ": {
+            "1155": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15",
+                "Room": "INNO_Classroom 2028",
+                "Instructor": "Qiufeng Wang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1156": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "TuTh 20:10 - 21:10",
+                "Room": "TBA",
+                "Instructor": "Qiufeng Wang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " MATH 305 - Advanced Linear Algebra ": {
+            "1246": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30",
+                "Room": "INNO_Flexible Classroom 2071",
+                "Instructor": "Shixin Xu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1247": {
+                "Section": "001R-REC\nSeven Wk 2",
+                "Days & Times": "MoWe 07:15 - 08:15",
+                "Room": "TBA",
+                "Instructor": "Shixin Xu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MATH 307 - Complex Variable ": {
+            "1203": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "INNO_Classroom 1050\nTBA",
+                "Instructor": "Marcus Werner\nMarcus Werner",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MATH 308 - Real Analysis ": {
+            "1120": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 08:30 - 09:45\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 1010\nTBA",
+                "Instructor": "Konstantinos Efstathiou\nKonstantinos Efstathiou",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " MATH 401 - Abstract Algebra ": {
+            "1189": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "INNO_Classroom 1056\nTBA",
+                "Instructor": "Xiaoqian Xu\nXiaoqian Xu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " MATH 403 - Partial Differential Equations ": {
+            "1243": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "INNO_Classroom 1050\nTBA",
+                "Instructor": "Xiaoqian Xu\nXiaoqian Xu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MATH 405 - Methods for Data Analysis ": {
+            "1202": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Classroom 1050\nTBA",
+                "Instructor": "Xiuyuan Cheng\nXiuyuan Cheng",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MATH 406 - Mathematical Modeling ": {
+            "1165": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 11:45 - 13:00\nTuTh 21:20 - 22:20",
+                "Room": "INNO_Telepresence Room 1011\nTBA",
+                "Instructor": "Shixin Xu\nShixin Xu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "MEDIART": {
+        " MEDIART 101 - Introduction to Media Studies and the Arts ": {
+            "1089": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "ACAD_Seminar 3A 3101\nTBA",
+                "Instructor": "Kim Gordon\nKim Gordon",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MEDIART 105 - Introduction to Film Studies ": {
+            "1072": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "INNO_Telepresence Room 1011\nTBA",
+                "Instructor": "David Hare\nDavid Hare",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MEDIART 110 - Audio Documentary & Storytelling ": {
+            "1102": {
+                "Section": "001-LEC\nSeven Wk 2",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar Room 3033\nTBA",
+                "Instructor": "Diana Chester\nDiana Chester",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MEDIART 202 - Ideas, Imagination and Creativity ": {
+            "1070": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Liqi Ren\nLiqi Ren",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MEDIART 205 - Digital Imaging ": {
+            "1008": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3B 3103\nTBA",
+                "Instructor": "Weijing Xu\nWeijing Xu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " MEDIART 210 - Media and Arts Practicum ": {
+            "1003": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "CONF_Conference Room 1095\nTBA",
+                "Instructor": "Cici Cheng\nCici Cheng",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " MEDIART 211 - Media, Arts and Critical Theory ": {
+            "1090": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "ACAD_Seminar 3A 3101\nTBA",
+                "Instructor": "Jung Choi\nJung Choi",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MEDIART 302 - Contemporary Documentary Film ": {
+            "1073": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3A 3101\nTBA",
+                "Instructor": "Weijing Xu\nWeijing Xu",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MEDIART 306 - Foundations of Interactive Game Design ": {
+            "1071": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3A 3101\nTBA",
+                "Instructor": "Benjamin Bacon\nBenjamin Bacon",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MEDIART 310 - Screenwriting ": {
+            "1044": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Classroom 1050\nTBA",
+                "Instructor": "Seth Henderson\nSeth Henderson",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " MEDIART 390 - Junior Seminar: Advanced Topics ": {
+            "1047": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "ACAD_Seminar Room 3033\nTBA",
+                "Instructor": "Kaley Clements\nKaley Clements",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "MINITERM": {
+        " MINITERM 101 - Exploratory Mini-Term ": {
+            "1349": {
+                "Section": "001-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Shan Wang",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1350": {
+                "Section": "002-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Joseph Davies,\nLaura Davies",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1351": {
+                "Section": "003-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "David Hare",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1352": {
+                "Section": "004-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Zhaojin Zeng",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1353": {
+                "Section": "005-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Huansheng Cao",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1354": {
+                "Section": "006-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Bryce Beemer",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1355": {
+                "Section": "007-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Seth Henderson",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1356": {
+                "Section": "008-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Titas Chakraborty,\nNellie Chu",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1357": {
+                "Section": "009-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Philip Santoso",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1358": {
+                "Section": "010-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Lincoln Rathnam",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1359": {
+                "Section": "011-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Kai Huang",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1360": {
+                "Section": "012-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Changcheng Zheng",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1361": {
+                "Section": "013-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Austin WOERNER",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1362": {
+                "Section": "014-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Ben Van Overmeire,\nJeffrey Nicolaisen",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1363": {
+                "Section": "015-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Emily McWilliams",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1364": {
+                "Section": "016-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Daniel Weissglass",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1365": {
+                "Section": "017-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Jung Choi",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1366": {
+                "Section": "018-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Ying Chiang Huang",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1367": {
+                "Section": "019-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Irina Soboleva",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1368": {
+                "Section": "020-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Mengqi Wang",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1369": {
+                "Section": "021-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Daniel Stephens",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1370": {
+                "Section": "022-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Selina Lai-Henderson",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1371": {
+                "Section": "023-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Kai Zhang",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1372": {
+                "Section": "024-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Kim Gordon",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1373": {
+                "Section": "025-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Kyle Fruh",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1374": {
+                "Section": "026-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Myung-Joong Hwang",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1375": {
+                "Section": "027-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Qian Zhu",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1376": {
+                "Section": "028-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Meifang Chen",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1377": {
+                "Section": "029-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Benjamin Anderson,\nKaley Clements",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            }
+        },
+        " MINITERM 102 - Signature Mini-term ": {
+            "1378": {
+                "Section": "001-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Dongmian Zou",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1379": {
+                "Section": "002-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Xiangjun Feng",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1380": {
+                "Section": "003-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Jingbo Cui",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1381": {
+                "Section": "004-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Keping Wu",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1382": {
+                "Section": "005-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Luyao Zhang",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1383": {
+                "Section": "006-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Marcus Werner",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1384": {
+                "Section": "007-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Benjamin Bacon,\nWeijing Xu",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1385": {
+                "Section": "008-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Zairong Xiang",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1386": {
+                "Section": "009-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Stephanie Anderson,\nCaio Yurgel",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1387": {
+                "Section": "010-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Xiaochen Zhang",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            },
+            "1388": {
+                "Section": "011-LEC\nMini-Spr",
+                "Days & Times": "TBA",
+                "Room": "TBA",
+                "Instructor": "Floyd Beckford",
+                "Meeting Dates": "2021/03/15 - 2021/03/19",
+                "Status": "Open"
+            }
+        }
+    },
+    "MUSIC": {
+        " MUSIC 115 - Chorale ": {
+            "1302": {
+                "Section": "001-LEC\n14 Week",
+                "Days & Times": "Th 18:00 - 19:30",
+                "Room": "INNO_Flexible Classroom 1046",
+                "Instructor": "Mickey Yi Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " MUSIC 210 - Chamber Ensemble ": {
+            "1061": {
+                "Section": "001-LEC\n14 Week",
+                "Days & Times": "Mo 18:00 - 19:30",
+                "Room": "INNO_Flexible Classroom 1046",
+                "Instructor": "Yue Cheng",
+                "Meeting Dates": "2021/01/06 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "NEUROSCI": {
+        " NEUROSCI 102 - Biological Basis of Behavior ": {
+            "1059": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar Room 3031\nTBA",
+                "Instructor": "Pedro Rada\nPedro Rada",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " NEUROSCI 212 - Cognitive Neuroscience ": {
+            "1030": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "ACAD_Seminar 3D 3109\nTBA",
+                "Instructor": "Sze Chai Kwok\nSze Chai Kwok",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " NEUROSCI 301 - Research Methods in Neuroscience ": {
+            "1259": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar 3D 3109\nTBA",
+                "Instructor": "Sze Chai Kwok,\nPedro Rada\nSze Chai Kwok,\nPedro Rada",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "PHIL": {
+        " PHIL 101 - Introduction to Western Philosophy ": {
+            "1043": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "INNO_Classroom 1055\nTBA",
+                "Instructor": "Nathan Hauthaler\nNathan Hauthaler",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " PHIL 205 - Logic ": {
+            "1109": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar 3A 3101\nTBA",
+                "Instructor": "Kyle Fruh\nKyle Fruh",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "PHYS": {
+        " PHYS 121 - Integrated Science - Physics ": {
+            "1132": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 08:30 - 09:45",
+                "Room": "INNO_Flexible Classroom 1046",
+                "Instructor": "Kai Huang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1134": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Mo 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Kai Huang,\nYi Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1133": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "TuTh 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Kai Huang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1135": {
+                "Section": "002L-LAB\nSeven Wk 1",
+                "Days & Times": "Th 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Kai Huang,\nYi Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1136": {
+                "Section": "003-LEC\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 13:15 - 14:30",
+                "Room": "INNO_Classroom 2028",
+                "Instructor": "Changcheng Zheng",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1138": {
+                "Section": "003L-LAB\nSeven Wk 1",
+                "Days & Times": "We 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Changcheng Zheng,\nYi Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1137": {
+                "Section": "003R-REC\nSeven Wk 1",
+                "Days & Times": "MoWe 21:20 - 22:20",
+                "Room": "TBA",
+                "Instructor": "Changcheng Zheng",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1139": {
+                "Section": "004L-LAB\nSeven Wk 1",
+                "Days & Times": "Th 14:45 - 17:45",
+                "Room": "TBA",
+                "Instructor": "Changcheng Zheng,\nYi Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1216": {
+                "Section": "005-LEC\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30",
+                "Room": "INNO_Flexible Classroom 1046",
+                "Instructor": "Myung-Joong Hwang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1217": {
+                "Section": "005L-LAB\nSeven Wk 2",
+                "Days & Times": "Mo 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Myung-Joong Hwang,\nYi Zhang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1219": {
+                "Section": "005R-REC\nSeven Wk 2",
+                "Days & Times": "MoWe 20:10 - 21:10",
+                "Room": "TBA",
+                "Instructor": "Myung-Joong Hwang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1218": {
+                "Section": "006L-LAB\nSeven Wk 2",
+                "Days & Times": "Tu 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Myung-Joong Hwang,\nYi Zhang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " PHYS 122 - General Physics II: Electricity, Magnetism and Light ": {
+            "1173": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30",
+                "Room": "INNO_Seminar Room 1010",
+                "Instructor": "Qing Huo Liu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1175": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "We 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Qing Huo Liu,\nYi Zhang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1174": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "MoWe 20:10 - 21:10",
+                "Room": "TBA",
+                "Instructor": "Qing Huo Liu",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " PHYS 134 - Introductory Astronomy ": {
+            "1215": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 08:30 - 09:45\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 2050\nTBA",
+                "Instructor": "Ronen Plesser\nRonen Plesser",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " PHYS 201 - Optics and Modern Physics ": {
+            "1220": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "INNO_Classroom 1051\nTBA",
+                "Instructor": "Changcheng Zheng\nChangcheng Zheng",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1221": {
+                "Section": "001L-LAB\nSeven Wk 2",
+                "Days & Times": "Tu 11:30 - 14:30",
+                "Room": "TBA",
+                "Instructor": "Changcheng Zheng,\nYi Zhang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " PHYS 301 - Classical Mechanics ": {
+            "1258": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "INNO_Seminar Room 1010\nTBA",
+                "Instructor": "Ronen Plesser\nRonen Plesser",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " PHYS 302 - Thermal and Statistical Physics ": {
+            "1192": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar 3D 3109\nTBA",
+                "Instructor": "Myung-Joong Hwang\nMyung-Joong Hwang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " PHYS 303 - Introduction to Biophysics ": {
+            "1209": {
+                "Section": "001-LEC\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00",
+                "Room": "INNO_Flexible Classroom 1047",
+                "Instructor": "Haiqing Zhao",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1210": {
+                "Section": "001R-REC\nSeven Wk 2",
+                "Days & Times": "MoWe 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Haiqing Zhao",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "POLECON": {
+        " POLECON 201 - International Political Economy ": {
+            "1018": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "INNO_Classroom 1056\nTBA",
+                "Instructor": "David Landry\nDavid Landry",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " POLECON 301 - Development ": {
+            "1077": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3D 3109\nTBA",
+                "Instructor": "David Landry\nDavid Landry",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " POLECON 302 - China\u2019s Economic Transition ": {
+            "1289": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 21:20 - 22:20",
+                "Room": "CONF_Conference Room 1095\nTBA",
+                "Instructor": "Zhaojin Zeng\nZhaojin Zeng",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "POLSCI": {
+        " POLSCI 101 - International Politics ": {
+            "1012": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3A 3101\nTBA",
+                "Instructor": "Tyler Kustra\nTyler Kustra",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " POLSCI 107 - Political Psychology ": {
+            "1038": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 13:15 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "INNO_Telepresence Room 1011\nTBA",
+                "Instructor": "Irina Soboleva\nIrina Soboleva",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1039": {
+                "Section": "002-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "Irina Soboleva\nIrina Soboleva",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " POLSCI 204 - The U.S. Constitution and its Critics ": {
+            "1345": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar 3A 3101\nTBA",
+                "Instructor": "Lincoln Rathnam\nLincoln Rathnam",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " POLSCI 214 - Authoritarianism and the struggle for democracy in Latin America ": {
+            "1294": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Robin Rodd\nRobin Rodd",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " POLSCI 219 - The U.S. Legal System: Lawyers, Judges, Lawmakers, & Bureaucrats ": {
+            "1298": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Jeff Thaler\nJeff Thaler",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " POLSCI 301 - Program Evaluation ": {
+            "1051": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "ACAD_Seminar 3A 3101\nTBA",
+                "Instructor": "Jason Todd\nJason Todd",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " POLSCI 307 - Political Economy of Institutions ": {
+            "1067": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar Room 3033\nTBA",
+                "Instructor": "Pippa Morgan\nPippa Morgan",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " POLSCI 308 - Global Governance ": {
+            "1011": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3A 3101\nTBA",
+                "Instructor": "Pippa Morgan\nPippa Morgan",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "PSYCH": {
+        " PSYCH 101 - Introductory Psychology ": {
+            "1013": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 2050\nTBA",
+                "Instructor": "Shan Wang\nShan Wang",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " PSYCH 102 - Cognitive Psychology ": {
+            "1097": {
+                "Section": "001-LEC\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "Shan Wang\nShan Wang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " PSYCH 103 - Developmental Psychology ": {
+            "1015": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3D 3109\nTBA",
+                "Instructor": "Chia-chien Chen\nChia-chien Chen",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "PUBPOL": {
+        " PUBPOL 101 - Introduction to Policy Analysis ": {
+            "1056": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "ACAD_Seminar 3C 3107\nTBA",
+                "Instructor": "Patrick Ward\nPatrick Ward",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " PUBPOL 201 - Climate Change Law and Policy ": {
+            "1053": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "ACAD_Seminar 3B 3103\nTBA",
+                "Instructor": "Staff\nCoraline Goron",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " PUBPOL 209 - The Politics of Environmental Crises ": {
+            "1095": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 13:15 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "INNO_Team Room 3039\nTBA",
+                "Instructor": "Annemieke van den Dool\nAnnemieke van den Dool",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1096": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 13:15 - 14:30\nMoWe 07:15 - 08:15",
+                "Room": "INNO_Team Room 3039\nTBA",
+                "Instructor": "Annemieke van den Dool\nAnnemieke van den Dool",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " PUBPOL 219 - The U.S. Legal System: Lawyers, Judges, Lawmakers, & Bureaucrats ": {
+            "1297": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Jeff Thaler\nJeff Thaler",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " PUBPOL 220 - Introduction to Regulatory Governance ": {
+            "1306": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "CONF_Conference Room 1095\nTBA",
+                "Instructor": "Jeroen van der Heijden\nJeroen van der Heijden",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " PUBPOL 301 - Political Analysis for Public Policy ": {
+            "1083": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 21:20 - 22:20",
+                "Room": "CONF_Conference Room 1095\nTBA",
+                "Instructor": "Jason Todd\nJason Todd",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " PUBPOL 303 - Policy Choice as Value Conflict ": {
+            "1014": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar 3C 3107\nTBA",
+                "Instructor": "Quinlan Bowman\nQuinlan Bowman",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " PUBPOL 304 - Microeconomic Policy Tools  ": {
+            "1303": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 13:15 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "INNO_Seminar Room 2050\nTBA",
+                "Instructor": "Jaehee Choi\nJaehee Choi",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " PUBPOL 315 - Economics of the Public Sector ": {
+            "1304": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 16:15 - 17:30\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Seminar Room 2050\nTBA",
+                "Instructor": "Jaehee Choi\nJaehee Choi",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "RELIG": {
+        " RELIG 106 - Religion and Leadership ": {
+            "1045": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "CONF_Conference Room 1095\nTBA",
+                "Instructor": "Jeffrey Nicolaisen\nJeffrey Nicolaisen",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " RELIG 201 - Confucianism, Daoism and Buddhism ": {
+            "1046": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "CONF_Conference Room 1095\nTBA",
+                "Instructor": "Ben Van Overmeire\nBen Van Overmeire",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " RELIG 203 - Judaism, Christianity, and Islam ": {
+            "1080": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 12:00 - 14:30\nTuTh 07:15 - 08:15",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "Tommaso Tesei\nTommaso Tesei",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "SOSC": {
+        " SOSC 101 - Foundational Questions in Social Science ": {
+            "1034": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "Mo 13:15 - 14:30",
+                "Room": "ACAD_Seminar 1A 1079",
+                "Instructor": "Jason Todd,\nLindsay Rathnam,\nLincoln Rathnam",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1035": {
+                "Section": "001D-DIS\nSeven Wk 1",
+                "Days & Times": "TuWeTh 13:15 - 14:30",
+                "Room": "INNO_Seminar Room 1010",
+                "Instructor": "Jason Todd",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1036": {
+                "Section": "002D-DIS\nSeven Wk 1",
+                "Days & Times": "TuWeTh 13:15 - 14:30",
+                "Room": "INNO_Classroom 1050",
+                "Instructor": "Lindsay Rathnam",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1037": {
+                "Section": "003D-DIS\nSeven Wk 1",
+                "Days & Times": "TuWeTh 13:15 - 14:30",
+                "Room": "INNO_Team Room 3039",
+                "Instructor": "Lincoln Rathnam",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1042": {
+                "Section": "004D-DIS\nSeven Wk 1",
+                "Days & Times": "TuWeTh 14:45 - 16:00",
+                "Room": "ACAD_Seminar 3D 3109",
+                "Instructor": "Lindsay Rathnam",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " SOSC 102 - Introduction to Research Methods ": {
+            "1092": {
+                "Section": "001-LEC\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 07:15 - 08:15",
+                "Room": "ACAD_Seminar 2B 2107\nTBA",
+                "Instructor": "Yu Wang,\nMengqi Wang\nYu Wang,\nMengqi Wang",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " SOSC 110 - Innovation and Creativity ": {
+            "1032": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 13:15 - 14:30\nMoWe 07:15 - 08:15",
+                "Room": "ACAD_Team Room 1082\nTBA",
+                "Instructor": "Liqi Ren\nLiqi Ren",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1033": {
+                "Section": "002-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 13:15 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "Liqi Ren\nLiqi Ren",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " SOSC 320 - Data in the World: Applied Social Statistics ": {
+            "1105": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "CONF_Conference Room 1103\nTBA",
+                "Instructor": "Andrew MacDonald,\nTyler Kustra\nAndrew MacDonald,\nTyler Kustra",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "SOCIOL": {
+        " SOCIOL 111 - Contemporary Social Problems ": {
+            "1028": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 12:00 - 14:30\nMoWe 21:20 - 22:20",
+                "Room": "ACAD_Seminar 3A 3101\nTBA",
+                "Instructor": "Hyun Jeong Ha\nHyun Jeong Ha",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " SOCIOL 202 - Sociology of Culture ": {
+            "1098": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "Megan Rogers\nMegan Rogers",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " SOCIOL 305 - Theory and Society ": {
+            "1079": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00\nMoWe 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 1010\nTBA",
+                "Instructor": "Hyun Jeong Ha\nHyun Jeong Ha",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "STATS": {
+        " STATS 101 - Introduction to Applied Statistical Methods ": {
+            "1048": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15",
+                "Room": "INNO_Classroom 3106",
+                "Instructor": "Andrew MacDonald",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1049": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "TuTh 20:10 - 21:10",
+                "Room": "TBA",
+                "Instructor": "Andrew MacDonald",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1081": {
+                "Section": "002-LEC\nSeven Wk 2",
+                "Days & Times": "TuTh 12:00 - 14:30",
+                "Room": "INNO_Seminar Room 2050",
+                "Instructor": "Philip Santoso",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1082": {
+                "Section": "002L-LAB\nSeven Wk 2",
+                "Days & Times": "MoWe 07:15 - 08:15",
+                "Room": "TBA",
+                "Instructor": "Philip Santoso",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " STATS 102 - Introduction to Data Science ": {
+            "1149": {
+                "Section": "001-LEC\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 10:00 - 11:15\nMoWe 19:00 - 20:00",
+                "Room": "ACAD_Seminar 1B 1087\nTBA",
+                "Instructor": "Ming Li\nMing Li",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1150": {
+                "Section": "001L-LAB\nSeven Wk 1",
+                "Days & Times": "Tu 11:45 - 13:00",
+                "Room": "TBA",
+                "Instructor": "Ming Li",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1151": {
+                "Section": "002L-LAB\nSeven Wk 1",
+                "Days & Times": "Th 11:45 - 13:00",
+                "Room": "TBA",
+                "Instructor": "Ming Li",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        },
+        " STATS 210 - Probability, Random Variables and Stochastic Processes ": {
+            "1123": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoTuWeTh 08:30 - 09:45",
+                "Room": "INNO_Flexible Classroom 1047",
+                "Instructor": "Pingqiang Zhou",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1391": {
+                "Section": "001R-REC\nSeven Wk 1",
+                "Days & Times": "TuTh 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Pingqiang Zhou",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1206": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00",
+                "Room": "INNO_Flexible Classroom 1047",
+                "Instructor": "Andrea Agazzi",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1392": {
+                "Section": "002R-REC\nSeven Wk 2",
+                "Days & Times": "TuTh 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Andrea Agazzi",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " STATS 302 - Principles of Machine Learning ": {
+            "1195": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoTuWeTh 08:30 - 09:45",
+                "Room": "ACAD_Seminar 2A 2103",
+                "Instructor": "Dongmian Zou",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1196": {
+                "Section": "001R-REC\nSeven Wk 2",
+                "Days & Times": "TuTh 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Dongmian Zou",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " STATS 303 - Statistical Machine Learning ": {
+            "1205": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 11:00",
+                "Room": "INNO_Flexible Classroom 1046",
+                "Instructor": "Andrea Agazzi",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            },
+            "1348": {
+                "Section": "001R-REC\nSeven Wk 2",
+                "Days & Times": "MoWe 19:00 - 20:00",
+                "Room": "TBA",
+                "Instructor": "Andrea Agazzi",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " STATS 402 - Interdisciplinary Data Analysis ": {
+            "1211": {
+                "Section": "001-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Flexible Classroom 1046\nTBA",
+                "Instructor": "Peng Sun\nPeng Sun",
+                "Meeting Dates": "2021/03/22 - 2021/05/06\n2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        }
+    },
+    "USTUD": {
+        " USTUD 390 - Junior Seminar: Advanced Topics ": {
+            "1288": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 08:30 - 11:00\nTuTh 19:00 - 20:00",
+                "Room": "INNO_Seminar Room 2025\nTBA",
+                "Instructor": "James Miller,\nMegan Rogers\nJames Miller,\nMegan Rogers",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    },
+    "WOC": {
+        " WOC 110 - Should We Care About Endangered Languages ": {
+            "1445": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 16:15 - 17:30",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Don Snow",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1446": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 16:15 - 17:30",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Don Snow",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " WOC 190 - Special Topics in Writing ": {
+            "1443": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 08:30 - 09:45",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Austin WOERNER",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1444": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "TuTh 08:30 - 09:45",
+                "Room": "ACAD_Team Room 1078",
+                "Instructor": "Austin WOERNER",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " WOC 201 - Academic Writing 1: Argumentation Across Disciplines ": {
+            "1447": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 16:00",
+                "Room": "ACAD_Team Room 1082",
+                "Instructor": "Tyler Carter",
+                "Meeting Dates": "2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1448": {
+                "Section": "002-SEM\nSeven Wk 2",
+                "Days & Times": "MoWe 14:45 - 16:00",
+                "Room": "INNO_Team Room 3039",
+                "Instructor": "Tyler Carter",
+                "Meeting Dates": "2021/03/22 - 2021/05/06",
+                "Status": "Open"
+            }
+        },
+        " WOC 290 - Special Topics: Writing Across Cultures ": {
+            "1057": {
+                "Section": "001-SEM\nSeven Wk 1",
+                "Days & Times": "MoWe 14:45 - 17:15\nTuTh 20:10 - 21:10",
+                "Room": "INNO_Team Room 3039\nTBA",
+                "Instructor": "Alison Klein\nAlison Klein",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            },
+            "1058": {
+                "Section": "002-SEM\nSeven Wk 1",
+                "Days & Times": "TuTh 14:45 - 17:15\nMoWe 20:10 - 21:10",
+                "Room": "INNO_Team Room 3039\nTBA",
+                "Instructor": "Alison Klein\nAlison Klein",
+                "Meeting Dates": "2021/01/06 - 2021/03/04\n2021/01/06 - 2021/03/04",
+                "Status": "Open"
+            }
+        }
+    }
+}
